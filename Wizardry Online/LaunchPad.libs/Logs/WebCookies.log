@@ -1,4 +1,0 @@
-2013-04-09	10:27:40		1365528458	206	4	5875555058	(Loading) LogCookieData(Loading-LoadUrl) - url=local://loading.html/ cookies=()
-2013-04-09	10:27:40		1365528458	310	4	5875555462	(Main) LogCookieData(Main-LoadUrl) - url=https://lp.soe.com/wiz.2/live/?t=58755 cookies=()
-2013-04-09	10:27:43		1365528458	601	4	5875558547	(Loading) LogCookieData(Loading-Shutdown) - url=local://loading.html/ cookies=()
-2013-04-09	10:27:47		1365528458	650	4	5875562538	(Main) LogCookieData(Main-Shutdown) - url=https://lp.soe.com/wiz.2/live/?t=58755 cookies=(lp-session-id=1365528460; soe_event=1365528471.; dtVisInfo=1:1:1365528462623; dtVisTmr=true; utag_main=_st:1365530262650$ses_id:1365528467385%3Bexp-session; s_cc=true; s_sq=%5B%5BB%5D%5D; s_vi=[CS]v1|28B227C785011830-40000137E0161078[CE]; s_fid=4FCDA3BE954B9759-19E22CED4E7903EA)
