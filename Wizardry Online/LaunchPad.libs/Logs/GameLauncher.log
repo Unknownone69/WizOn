@@ -1,0 +1,163 @@
+2013-04-09	10:27:38		1365528458	1	4	5875553635	InitializePostConfigLogging - local logger created, localLogLevel=4, defaultLogfile=#GameLauncher.log.
+2013-04-09	10:27:38		1365528458	2	4	5875553635	InitializePostConfigLogging - connecting to logging server, address=lvs-gt-els01.station.sony.com:20060;lvs-gt-els01.station.sony.com:20061;lvs-gt-els02.station.sony.com:20060;lvs-gt-els02.station.sony.com:20061;lvs-gt-els03.station.sony.com:20060;lvs-gt-els03.station.sony.com:20061;lvs-gt-els04.station.sony.com:20060;lvs-gt-els04.station.sony.com:20061.
+2013-04-09	10:27:38		1365528458	7	4	5875553640	GameLauncherClient - Starting name=LaunchPad Shell, guid={805ACF13-47BC-4cc3-878F-771D53BD2C59}, version=5.2.5.24, gameEnv=live, gameCode=wiz, serverEnv=live, appBuildTime=Mar  4 2013 18:31:57, processId=3792, processFilepath=E:/Games/Wizardry Online/LaunchPad.exe, uf=55f4f2a6-0000457a-0000411d-d672a783-02ae4c9f, clientSessionId=1365528471, sf=PFN5c3RlbUZpbmdlcnByaW50IFZpZGVvQ2FyZElkPSJDQU9LUjI0anNRUi9GNFhrVFNQc1FYQkloRHBMMzRhT0dCRndUVjlwSVdFPSIgTmV0d29ya0NhcmRJZD0idURYdWhJM3h3MlR2d1RvNDMvcjVhNDBHS1E5TCtZL1BQZTBISkdGaHJYQT0iIEhhcmRyaXZlSWQ9ImxDMFF0Q1gzdlRxamw4ZnBxcnFxWnRkVk5wc3J2Y29SUk55WHU0UURBakk9IiBDb21wdXRlck5hbWU9IjJEdVFRTDFsTWdUU0l5MnhSS2NLcEY0WVQxN0F2VGVVbXNOU3hoRW11QlE9Ij48TmV0d29ya0FkYXB0ZXJzIElzTGlzdD0iMSI-PE5ldHdvcmtBZGFwdGVyIElkPSJ1RFh1aEkzeHcyVHZ3VG80My9yNWE0MEdLUTlMK1kvUFBlMEhKR0ZoclhBPSIvPjxOZXR3b3JrQWRhcHRlciBJZD0ibENqQ0ttUzBQUE5CbkdhbzBLL1Y2ZStrOWxIbkdNTlZRWmxMblZBZENWbz0iLz48TmV0d29ya0FkYXB0ZXIgSWQ9IjRuNUl5S29qMmRrcXNPaTA4L3k4WXEzK2VRUlpkMlJseVo3TW11Sk01NFE9Ii8-PE5ldHdvcmtBZGFwdGVyIElkPSJ2QjBtSFprc1VUMjhQdzdjZmE5a0VwNjMzQnNkK3JyQWhock1mU2NmTzdRPSIvPjxOZXR3b3JrQWRhcHRlciBJZD0iMUtOUk9SaUhvc1JES3FHcGgzVEtVYk55Y3VtQUZhU0lxWnkySEEwUDIzbz0iLz48L05ldHdvcmtBZGFwdGVycz48SGFyZERyaXZlcyBJc0xpc3Q9IjEiPjxIYXJkRHJpdmUgVW5pcXVlSWQ9Ijh1N09iZWVMNklOOEhkNTA1TXA4OTdLaUJWUnFXLzdwN0VROE9nbFpnNjg9IiBNb2RlbElkPSIrSm5rbU1XL2VtUlpMMmZoRCsyUzhzOWcwVEZxQ2FJVVlOdmZpUDEwTW1VPSIgUmV2aXNpb25JZD0iZGtTL0dFY2NTa2RSVzhsNXZJcnNneWRQN1BwN09xcGNHa1JLWVplakU3Yz0iIFZlbmRvcklkPSJveEN2UzYyellMN1c3TUt4ajVTcmhGaHQydVk4bVVUd1NYRHBaSW13NW5FPSIgU2l6ZUlkPSJlUEw3aXU1VVZPM2JBTitLWldtNW5sK1k1SnZ0dWYzQ3FjNUljZjlJOWtFPSIvPjxIYXJkRHJpdmUgVW5pcXVlSWQ9IllkZ3VET0xoa3BEWWd4ZjZYbWJLWDQ1LzNOcjUwZFBYRWpwT1ROZlZYYXc9IiBNb2RlbElkPSJMWC85Nyt4NjN3QmNzbmdUSTF5STEyRWUwSm9YWEdKTVlLQytqNlBLS3FRPSIgUmV2aXNpb25JZD0icXdkcGtaeHZUWHZ6NXY1VDEvcVdubXJ0M01jdStrVFFLN2JiTGs2Q3BQcz0iIFZlbmRvcklkPSJveEN2UzYyellMN1c3TUt4ajVTcmhGaHQydVk4bVVUd1NYRHBaSW13NW5FPSIgU2l6ZUlkPSJ1M1V4MFhoMnY3MDQzTkFqbnlPYldVV2M5czczcFNBWGxIVlpDMEVUTFZZPSIvPjwvSGFyZERyaXZlcz48L1N5c3RlbUZpbmdlcnByaW50Pg==, elapsedTimeSinceStartupMs=64.
+2013-04-09	10:27:38		1365528458	9	4	5875553665	Video Adapter DeviceId: 0
+2013-04-09	10:27:38		1365528458	10	4	5875553665	Video Adapter VendorId:: 0
+2013-04-09	10:27:38		1365528458	11	4	5875553665	Video Adapter SubSetId:: 0
+2013-04-09	10:27:38		1365528458	12	4	5875553665	GetUserDataFolder - windows version major=6, minor=1.
+2013-04-09	10:27:38		1365528458	26	4	5875553667	Working directory is: E:/Games/Wizardry Online.
+2013-04-09	10:27:38		1365528458	27	4	5875553667	InitializeInfiniteLoopMonitor - Starting up infinite loop monitor, crashFilename=LaunchPad.crash.txt, timeout=3600 seconds.
+2013-04-09	10:27:38		1365528458	28	4	5875553668	Initialized the infinite loop monitor.
+2013-04-09	10:27:38		1365528458	29	4	5875553668	InitializeCrashReporter - Connecting to crash report server, crashReporterName=LaunchPad Shell, address=recap.station.sony.com, filepath=./LaunchPad.libs/wws_crashreport_uploader.exe.
+2013-04-09	10:27:38		1365528458	30	4	5875553670	Initialized the crash reporter.
+2013-04-09	10:27:38		1365528458	31	4	5875553670	Initialized the http manager.
+2013-04-09	10:27:38		1365528458	32	4	5875553671	Initialized the application updater interface.
+2013-04-09	10:27:38		1365528458	33	4	5875553671	Locale set to en
+2013-04-09	10:27:38		1365528458	34	4	5875553671	Initialized localized messages.
+2013-04-09	10:27:38		1365528458	35	4	5875553671	Attempting to obtain registry lock, name={5E47593E-53AB-4efc-A442-127BA365D555}.
+2013-04-09	10:27:38		1365528458	36	4	5875553671	GetUserDataFolder - windows version major=6, minor=1.
+2013-04-09	10:27:38		1365528458	37	4	5875553698	Not all application registry tags processed, filepath=C:/Users/mmeyer/AppData/LocalLow/Sony Online Entertainment/ApplicationRegistry.xml.
+2013-04-09	10:27:38		1365528458	38	4	5875553698	Releasing registry lock, name={5E47593E-53AB-4efc-A442-127BA365D555}.
+2013-04-09	10:27:38		1365528458	39	4	5875553701	Registered the application.
+2013-04-09	10:27:38		1365528458	40	4	5875553701	Run - beginning to run.
+2013-04-09	10:27:38		1365528458	41	4	5875553701	[GameLauncherClient] Starting state machine.
+2013-04-09	10:27:38		1365528458	42	4	5875553701	[GameLauncherClient] State transition request to Starting.
+2013-04-09	10:27:38		1365528458	46	4	5875553703	TransitionState - oldState=, newState=Starting, totalTimeInStateMs=0.
+2013-04-09	10:27:38		1365528458	47	4	5875553717	Self patching is enabled.
+2013-04-09	10:27:38		1365528458	48	4	5875553717	[GameLauncherClient] State transition request to UpdatingPatcher.
+2013-04-09	10:27:38		1365528458	49	4	5875553733	TransitionState - oldState=Starting, newState=UpdatingPatcher, totalTimeInStateMs=30.
+2013-04-09	10:27:38		1365528458	50	4	5875553733	[GameLauncherClient, UpdatingPatcher] State - OnEnter(Begin)
+2013-04-09	10:27:38		1365528458	51	4	5875553736	[PatcherDllUpdater] Starting state machine.
+2013-04-09	10:27:38		1365528458	52	4	5875553736	[PatcherDllUpdater] State transition request to CheckingForPatcherUpdates.
+2013-04-09	10:27:38		1365528458	53	4	5875553736	[GameLauncherClient, UpdatingPatcher] State - OnEnter(End), totalTimeMs=3.
+2013-04-09	10:27:38		1365528458	54	4	5875553749	TransitionState - state=, totalTimeInStateMs=0, nextState=CheckingForPatcherUpdates.
+2013-04-09	10:27:38		1365528458	55	4	5875553749	[PatcherDllUpdater, CheckingForPatcherUpdates] State - OnEnter(Begin)
+2013-04-09	10:27:38		1365528458	56	4	5875553749	GetUserDataFolder - windows version major=6, minor=1.
+2013-04-09	10:27:38		1365528458	57	4	5875553749	Checking whether another process is updating the dll, filepath=C:/Users/mmeyer/AppData/LocalLow/Sony Online Entertainment/npsoeact.dll, lockName=LaunchPad_-Oo3Cr0R-ZW4om5yr-9_13a6EuxUMkx_tx78lzf6DWA=_5IlQLT2P6qVp8oVUAosts31QoiwLJZ7nHGo9fLk-2qk=_Installing_{D2AEEC42-C726-4e30-8014-BBDDBC8A6134}.
+2013-04-09	10:27:38		1365528458	58	4	5875553749	Update lock obtained, filepath=C:/Users/mmeyer/AppData/LocalLow/Sony Online Entertainment/npsoeact.dll, lockName=LaunchPad_-Oo3Cr0R-ZW4om5yr-9_13a6EuxUMkx_tx78lzf6DWA=_5IlQLT2P6qVp8oVUAosts31QoiwLJZ7nHGo9fLk-2qk=_Installing_{D2AEEC42-C726-4e30-8014-BBDDBC8A6134}
+2013-04-09	10:27:38		1365528458	59	4	5875553749	Requesting latest patcher version file, url=http://lp.soe.com/static/plugin/ActionVersion.txt
+2013-04-09	10:27:38		1365528458	60	4	5875553749	[PatcherDllUpdater, CheckingForPatcherUpdates] State - OnEnter(End), totalTimeMs=0.
+2013-04-09	10:27:38		1365528458	61	4	5875553813	HttpResponse - url=http://lp.soe.com/static/plugin/ActionVersion.txt, requestId=0, responseCode=200.
+2013-04-09	10:27:38		1365528458	62	4	5875553813	Successfully downloaded the patcher version file, url=http://lp.soe.com/static/plugin/ActionVersion.txt, dataLength=3, totalTimeMs=64.
+2013-04-09	10:27:38		1365528458	63	4	5875553813	We have the latest patcher version, latestVersion=0.0.0.183, currentVersion=0.0.0.183.
+2013-04-09	10:27:38		1365528458	64	4	5875553813	OnPatcherDllUpdateComplete - result=No update available, versionUrl=http://lp.soe.com/static/plugin/ActionVersion.txt, downloadUrl=http://lp.soe.com/static/plugin/npsoeact.dll.zs, filepath=C:/Users/mmeyer/AppData/LocalLow/Sony Online Entertainment/npsoeact.dll, newVersion=0.0.0.183, oldVersion=0.0.0.183, totalTimeMs=64
+2013-04-09	10:27:38		1365528458	65	4	5875553813	[PatcherDllUpdater] Stopping state machine.
+2013-04-09	10:27:38		1365528458	66	4	5875553813	PatcherDllUpdater - state machine finished.
+2013-04-09	10:27:38		1365528458	67	4	5875553813	1: [CheckingForPatcherUpdates, 64]
+2013-04-09	10:27:38		1365528458	68	4	5875553813	Self patching is enabled.
+2013-04-09	10:27:38		1365528458	69	4	5875553813	[GameLauncherClient] State transition request to SelfPatch.
+2013-04-09	10:27:38		1365528458	70	4	5875553829	[GameLauncherClient, UpdatingPatcher] State - OnExit (Begin)
+2013-04-09	10:27:38		1365528458	71	4	5875553829	[GameLauncherClient, UpdatingPatcher] State - OnExit (End), totalTimeMs=0.
+2013-04-09	10:27:38		1365528458	72	4	5875553829	TransitionState - oldState=UpdatingPatcher, newState=SelfPatch, totalTimeInStateMs=96.
+2013-04-09	10:27:38		1365528458	73	4	5875553829	[GameLauncherClient, SelfPatch] State - OnEnter(Begin)
+2013-04-09	10:27:38		1365528458	74	4	5875553829	Will create the browser patcher.
+2013-04-09	10:27:38		1365528458	75	4	5875553829	InitializePatcher - Attempting to load dll from directory specified in config, filepath=C:/Users/mmeyer/AppData/LocalLow/Sony Online Entertainment/npsoeact.dll.
+2013-04-09	10:27:38		1365528458	76	4	5875553832	InitializeBrowserPatcher - Successfully created patcher, filepath=C:/Users/mmeyer/AppData/LocalLow/Sony Online Entertainment/npsoeact.dll, version=183.
+2013-04-09	10:27:38		1365528458	77	4	5875553832	Starting self patch, digestUrl=http://manifest.patch.station.sony.com/patch/sha/manifest/lp4/live/gamelauncher/wiz/live.sha.soe, workingDir=E:/Games/Wizardry Online.
+2013-04-09	10:27:39		1365528458	78	4	5875554148	[GameLauncherClient, SelfPatch] State - OnEnter(End), totalTimeMs=319.
+2013-04-09	10:27:39		1365528458	79	4	5875554161	Self patch complete.
+2013-04-09	10:27:39		1365528458	80	4	5875554161	[GameLauncherClient] State transition request to CheckingForSelfUpdates.
+2013-04-09	10:27:39		1365528458	81	4	5875554161	Successfully installed (ApplicationUpdates) updates, errorCode=0, totalDownloadSize=0, totalTimeSec=0
+2013-04-09	10:27:39		1365528458	82	4	5875554161	[GameLauncherClient, SelfPatch] State - OnExit (Begin)
+2013-04-09	10:27:39		1365528458	83	4	5875554161	IniFilepath=LaunchPad.ini
+2013-04-09	10:27:39		1365528458	84	4	5875554161	InternalIniFilepath=LaunchPad-internal.ini
+2013-04-09	10:27:39		1365528458	85	4	5875554162	UserIniFilepath=LaunchPad-user.ini
+2013-04-09	10:27:39		1365528458	97	4	5875554164	GetUserDataFolder - windows version major=6, minor=1.
+2013-04-09	10:27:39		1365528458	102	4	5875554164	GetUserDataFolder - windows version major=6, minor=1.
+2013-04-09	10:27:39		1365528458	118	4	5875554164	[GameLauncherClient, SelfPatch] State - OnExit (End), totalTimeMs=3.
+2013-04-09	10:27:39		1365528458	119	4	5875554165	TransitionState - oldState=SelfPatch, newState=CheckingForSelfUpdates, totalTimeInStateMs=335.
+2013-04-09	10:27:39		1365528458	120	4	5875554165	[GameLauncherClient, CheckingForSelfUpdates] State - OnEnter(Begin)
+2013-04-09	10:27:39		1365528458	121	4	5875554165	Requesting latest self version, url=http://lp.soe.com/static/lp/LaunchPadShellVersion.txt.
+2013-04-09	10:27:39		1365528458	122	4	5875554165	[GameLauncherClient, CheckingForSelfUpdates] State - OnEnter(End), totalTimeMs=0.
+2013-04-09	10:27:39		1365528458	123	4	5875554225	HttpResponse - url=http://lp.soe.com/static/lp/LaunchPadShellVersion.txt, requestId=0, responseCode=200.
+2013-04-09	10:27:39		1365528458	124	4	5875554225	Successfully downloaded version file, url=http://lp.soe.com/static/lp/LaunchPadShellVersion.txt, dataLength=8, totalTimeMs=60.
+2013-04-09	10:27:39		1365528458	125	4	5875554225	We have the latest game launcher.
+2013-04-09	10:27:39		1365528458	126	4	5875554225	[GameLauncherClient] State transition request to UpdatesCompleted.
+2013-04-09	10:27:39		1365528458	127	4	5875554225	TransitionState - oldState=CheckingForSelfUpdates, newState=UpdatesCompleted, totalTimeInStateMs=61.
+2013-04-09	10:27:39		1365528458	128	4	5875554241	Will initialize the engine before displaying the main screen.
+2013-04-09	10:27:39		1365528458	129	4	5875554241	Disabling all updates.
+2013-04-09	10:27:39		1365528458	130	4	5875554241	[GameLauncherClient] State transition request to InitializingEngine.
+2013-04-09	10:27:39		1365528458	131	4	5875554257	TransitionState - oldState=UpdatesCompleted, newState=InitializingEngine, totalTimeInStateMs=32.
+2013-04-09	10:27:39		1365528458	132	4	5875554257	[GameLauncherClient, InitializingEngine] State - OnEnter(Begin)
+2013-04-09	10:27:39		1365528458	133	4	5875554257	Initializing the web core.
+2013-04-09	10:27:39		1365528458	134	4	5875554257	InitializeWebCore - Binary browser package (dll/exe), path=./LaunchPad.libs.
+2013-04-09	10:27:39		1365528458	135	4	5875554257	InitializeWebCore - loading dll, path=E:/Games/Wizardry Online/LaunchPad.libs/Awesomium.dll.
+2013-04-09	10:27:39		1365528458	136	4	5875554816	InitializeWebCore - Dll loaded, time=559 ms
+2013-04-09	10:27:39		1365528458	137	4	5875554821	InitializeWebCore - Plugins are disabled.
+2013-04-09	10:27:39		1365528458	138	4	5875554821	InitializeWebCore - Overriding cookies & cache path, path=E:/Games/Wizardry Online/LaunchPad.libs/LaunchPad.Cache.
+2013-04-09	10:27:39		1365528458	139	4	5875554822	InitializeWebCore - Overriding default accepted locale header value, override=en_US, overrideNonCanonical=en-US.
+2013-04-09	10:27:39		1365528458	140	4	5875554822	InitializeWebCore - Overriding default user agent header value, userAgent=Mozilla/5.0 (Windows; U; Windows NT 6.1; en_US) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/15.0.874.106 Safari/533.3.
+2013-04-09	10:27:39		1365528458	141	4	5875554822	InitializeWebCore - userAgent=Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/15.0.874.106 Safari/533.3 SOEWebKit/5.2.5.24 (55f4f2a6-0000457a-0000411d-d672a783-02ae4c9f.1365528471.PFN5c3RlbUZpbmdlcnByaW50IFZpZGVvQ2FyZElkPSJDQU9LUjI0anNRUi9GNFhrVFNQc1FYQkloRHBMMzRhT0dCRndUVjlwSVdFPSIgTmV0d29ya0NhcmRJZD0idURYdWhJM3h3MlR2d1RvNDMvcjVhNDBHS1E5TCtZL1BQZTBISkdGaHJYQT0iIEhhcmRyaXZlSWQ9ImxDMFF0Q1gzdlRxamw4ZnBxcnFxWnRkVk5wc3J2Y29SUk55WHU0UURBakk9IiBDb21wdXRlck5hbWU9IjJEdVFRTDFsTWdUU0l5MnhSS2NLcEY0WVQxN0F2VGVVbXNOU3hoRW11QlE9Ij48TmV0d29ya0FkYXB0ZXJzIElzTGlzdD0iMSI-PE5ldHdvcmtBZGFwdGVyIElkPSJ1RFh1aEkzeHcyVHZ3VG80My9yNWE0MEdLUTlMK1kvUFBlMEhKR0ZoclhBPSIvPjxOZXR3b3JrQWRhcHRlciBJZD0ibENqQ0ttUzBQUE5CbkdhbzBLL1Y2ZStrOWxIbkdNTlZRWmxMblZBZENWbz0iLz48TmV0d29ya0FkYXB0ZXIgSWQ9IjRuNUl5S29qMmRrcXNPaTA4L3k4WXEzK2VRUlpkMlJseVo3TW11Sk01NFE9Ii8-PE5ldHdvcmtBZGFwdGVyIElkPSJ2QjBtSFprc1VUMjhQdzdjZmE5a0VwNjMzQnNkK3JyQWhock1mU2NmTzdRPSIvPjxOZXR3b3JrQWRhcHRlciBJZD0iMUtOUk9SaUhvc1JES3FHcGgzVEtVYk55Y3VtQUZhU0lxWnkySEEwUDIzbz0iLz48L05ldHdvcmtBZGFwdGVycz48SGFyZERyaXZlcyBJc0xpc3Q9IjEiPjxIYXJkRHJpdmUgVW5pcXVlSWQ9Ijh1N09iZWVMNklOOEhkNTA1TXA4OTdLaUJWUnFXLzdwN0VROE9nbFpnNjg9IiBNb2RlbElkPSIrSm5rbU1XL2VtUlpMMmZoRCsyUzhzOWcwVEZxQ2FJVVlOdmZpUDEwTW1VPSIgUmV2aXNpb25JZD0iZGtTL0dFY2NTa2RSVzhsNXZJcnNneWRQN1BwN09xcGNHa1JLWVplakU3Yz0iIFZlbmRvcklkPSJveEN2UzYyellMN1c3TUt4ajVTcmhGaHQydVk4bVVUd1NYRHBaSW13NW5FPSIgU2l6ZUlkPSJlUEw3aXU1VVZPM2JBTitLWldtNW5sK1k1SnZ0dWYzQ3FjNUljZjlJOWtFPSIvPjxIYXJkRHJpdmUgVW5pcXVlSWQ9IllkZ3VET0xoa3BEWWd4ZjZYbWJLWDQ1LzNOcjUwZFBYRWpwT1ROZlZYYXc9IiBNb2RlbElkPSJMWC85Nyt4NjN3QmNzbmdUSTF5STEyRWUwSm9YWEdKTVlLQytqNlBLS3FRPSIgUmV2aXNpb25JZD0icXdkcGtaeHZUWHZ6NXY1VDEvcVdubXJ0M01jdStrVFFLN2JiTGs2Q3BQcz0iIFZlbmRvcklkPSJveEN2UzYyellMN1c3TUt4ajVTcmhGaHQydVk4bVVUd1NYRHBaSW13NW5FPSIgU2l6ZUlkPSJ1M1V4MFhoMnY3MDQzTkFqbnlPYldVV2M5czczcFNBWGxIVlpDMEVUTFZZPSIvPjwvSGFyZERyaXZlcz48L1N5c3RlbUZpbmdlcnByaW50Pg==).
+2013-04-09	10:27:39		1365528458	142	4	5875555015	StateEnterInitializingEngine - Initialized web core.
+2013-04-09	10:27:39		1365528458	143	4	5875555015	StateEnterInitializingEngine - Setting application icon, filepath=LaunchPad.ico.
+2013-04-09	10:27:39		1365528458	144	4	5875555016	GameLauncherEngine::Initialize - Loaded custom icon, filename=LaunchPad.ico.
+2013-04-09	10:27:40		1365528458	145	4	5875555017	StateEnterInitializingEngine - Initialized game launcher engine.
+2013-04-09	10:27:40		1365528458	146	4	5875555021	StateEnterInitializingEngine - Overriding the default target frame rate, value=60 fps.
+2013-04-09	10:27:40		1365528458	147	4	5875555021	GetUserDataFolder - windows version major=6, minor=1.
+2013-04-09	10:27:40		1365528458	148	4	5875555021	ProcessSyncEvent GameIsReady created.
+2013-04-09	10:27:40		1365528458	149	4	5875555022	StateEnterInitializingEngine - Initialized external command processor.
+2013-04-09	10:27:40		1365528458	150	4	5875555022	[GameLauncherClient, InitializingEngine] State - OnEnter(End), totalTimeMs=765.
+2013-04-09	10:27:40		1365528458	151	4	5875555027	OnEngineInitializeComplete - engine initialized successfully.
+2013-04-09	10:27:40		1365528458	152	4	5875555027	StateExecuteInitializingEngine - engine initialized successfully.
+2013-04-09	10:27:40		1365528458	153	4	5875555027	Already checked for self updates, will transition to loading main screen.
+2013-04-09	10:27:40		1365528458	154	4	5875555027	[GameLauncherClient] State transition request to LoadingMainScreen.
+2013-04-09	10:27:40		1365528458	155	4	5875555043	[GameLauncherClient, InitializingEngine] State - OnExit (Begin)
+2013-04-09	10:27:40		1365528458	156	4	5875555043	Creating loading screen, url=local:loading.html, width=915, height=615.
+2013-04-09	10:27:40		1365528458	204	4	5875555052	LoadUrl - loading site, url=local:loading.html, viewName=Loading.
+2013-04-09	10:27:40		1365528458	207	4	5875555059	StateExitInitializingEngine - creating main view.
+2013-04-09	10:27:40		1365528458	307	4	5875555094	OnInitializeComplete - launching url https://lp.soe.com/wiz.2/live/?t=58755.
+2013-04-09	10:27:40		1365528458	308	4	5875555094	LoadUrl - loading site, url=https://lp.soe.com/wiz.2/live/?t=58755, viewName=Main.
+2013-04-09	10:27:40		1365528458	311	4	5875555492	[GameLauncherClient, InitializingEngine] State - OnExit (End), totalTimeMs=449.
+2013-04-09	10:27:40		1365528458	312	4	5875555493	TransitionState - oldState=InitializingEngine, newState=LoadingMainScreen, totalTimeInStateMs=1235.
+2013-04-09	10:27:40		1365528458	313	4	5875555493	[GameLauncherClient, LoadingMainScreen] State - OnEnter(Begin)
+2013-04-09	10:27:40		1365528458	314	4	5875555493	Displaying Loading screen, url=local://loading.html/.
+2013-04-09	10:27:40		1365528458	315	4	5875555495	Destroying basic splash screen.
+2013-04-09	10:27:40		1365528458	316	4	5875555496	Will create the browser patcher.
+2013-04-09	10:27:40		1365528458	317	4	5875555496	InitializePatcher - Attempting to created patcher  from existing object factory, filepath=C:/Users/mmeyer/AppData/LocalLow/Sony Online Entertainment/npsoeact.dll.
+2013-04-09	10:27:40		1365528458	318	4	5875555496	InitializeBrowserPatcher - Successfully created patcher, filepath=, version=183.
+2013-04-09	10:27:40		1365528458	319	4	5875555498	InitializeBrowserPatcher - Successfully initialized patcher.
+2013-04-09	10:27:40		1365528458	320	4	5875555498	Created the browser patcher.
+2013-04-09	10:27:40		1365528458	321	4	5875555498	[GameLauncherClient, LoadingMainScreen] State - OnEnter(End), totalTimeMs=5.
+2013-04-09	10:27:40		1365528458	332	4	5875555703	View tile changed, viewName=Loading, title=Wizardry Online.
+2013-04-09	10:27:40		1365528458	340	3	5875555719	File::Open failure: .\LaunchPad.libs\Web\static\lp\js\loading.js (Windows GetLastError=3)
+2013-04-09	10:27:40		1365528458	345	3	5875555735	File::Open failure: .\LaunchPad.libs\Web\static\lp\js\window-controls.js (Windows GetLastError=3)
+2013-04-09	10:27:40		1365528458	374	3	5875555849	File::Open failure: .\LaunchPad.libs\Web\images\wrapper\footer-bg.jpg (Windows GetLastError=2)
+2013-04-09	10:27:40		1365528458	384	4	5875555925	OnLoadViewSite - url=local://loading.html/, viewName=Loading, pageLoadTime=831 ms, loadResult=Success.
+2013-04-09	10:27:40		1365528458	385	4	5875555925	OnLoadViewSite - Loaded the loading screen, url=local://loading.html/.
+2013-04-09	10:27:40		1365528458	386	4	5875555926	Displaying Loading screen, url=local://loading.html/.
+2013-04-09	10:27:40		1365528458	388	4	5875555926	Destroying basic splash screen.
+2013-04-09	10:27:41		1365528458	395	4	5875556102	View tile changed, viewName=Main, title=Wizardry Online.
+2013-04-09	10:27:42		1365528458	535	4	5875557676	Received ready event from the view.
+2013-04-09	10:27:42		1365528458	549	4	5875557786	SetWebSessionId - webSessionId=unknownTrackingId.
+2013-04-09	10:27:43		1365528458	585	4	5875558516	OnLoadViewSite - url=https://lp.soe.com/wiz.2/live/?t=58755, viewName=Main, pageLoadTime=3422 ms, loadResult=Success.
+2013-04-09	10:27:43		1365528458	586	4	5875558516	Main screen loaded, url=https://lp.soe.com/wiz.2/live/?t=58755, pageLoadTimeMs=3422.
+2013-04-09	10:27:43		1365528458	589	4	5875558516	Will display the main view.
+2013-04-09	10:27:43		1365528458	590	4	5875558517	[GameLauncherClient] State transition request to DisplayingMainScreen.
+2013-04-09	10:27:43		1365528458	593	4	5875558532	TransitionState - oldState=LoadingMainScreen, newState=DisplayingMainScreen, totalTimeInStateMs=3039.
+2013-04-09	10:27:43		1365528458	594	4	5875558532	[GameLauncherClient, DisplayingMainScreen] State - OnEnter(Begin)
+2013-04-09	10:27:43		1365528458	602	4	5875558548	Destroying the application updater api.
+2013-04-09	10:27:43		1365528458	603	4	5875558548	Destroying the http manager.
+2013-04-09	10:27:43		1365528458	604	4	5875558548	Destroying the native patcher.
+2013-04-09	10:27:43		1365528458	605	4	5875558548	Destroying basic splash screen.
+2013-04-09	10:27:43		1365528458	609	4	5875558548	Main screen displayed, url=https://lp.soe.com/wiz.2/live/?t=58755, pageLoadTimeMs=3454.
+2013-04-09	10:27:43		1365528458	610	4	5875558549	[GameLauncherClient, DisplayingMainScreen] State - OnEnter(End), totalTimeMs=16.
+2013-04-09	10:27:47		1365528458	620	4	5875562519	Engine viewport closed by user, will request shutdown.
+2013-04-09	10:27:47		1365528458	621	4	5875562519	RequestShutdown - Shutdown requested, reason=UserExit.
+2013-04-09	10:27:47		1365528458	624	4	5875562530	[GameLauncherClient] Stopping state machine.
+2013-04-09	10:27:47		1365528458	625	4	5875562530	GameLauncherClient - state machine finished.
+2013-04-09	10:27:47		1365528458	634	4	5875562531	Run - ending the run.
+2013-04-09	10:27:47		1365528458	635	4	5875562532	Shutting down.
+2013-04-09	10:27:47		1365528458	636	4	5875562532	ProcessSyncEvent GameIsReady destroyed.
+2013-04-09	10:27:47		1365528458	637	4	5875562532	Destroying the http manager.
+2013-04-09	10:27:47		1365528458	638	4	5875562532	Destroying the application updater api.
+2013-04-09	10:27:47		1365528458	639	4	5875562532	Disabling command processing.
+2013-04-09	10:27:47		1365528458	640	4	5875562532	Shutting down browser patcher.
+2013-04-09	10:27:47		1365528458	641	4	5875562532	Destroying the browser patcher.
+2013-04-09	10:27:47		1365528458	642	4	5875562532	Destroying the native patcher.
+2013-04-09	10:27:47		1365528458	643	4	5875562532	Destroying patcher object factory.
+2013-04-09	10:27:47		1365528458	644	4	5875562533	Destroying auxiliary views.
+2013-04-09	10:27:47		1365528458	645	4	5875562533	Destroying basic splash screen.
+2013-04-09	10:27:47		1365528458	646	4	5875562533	Shutting down engine.
+2013-04-09	10:27:47		1365528458	648	4	5875562533	Destroying main view.
+2013-04-09	10:27:47		1365528458	651	4	5875562539	Destroying web core.
+2013-04-09	10:27:47		1365528458	652	4	5875562539	Shutting down log service.

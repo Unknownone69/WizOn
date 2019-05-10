@@ -1,0 +1,142 @@
+2013-04-09	10:27:40		1365528458	157	4	5875555043	(Loading) Create - viewName=Loading, width=915, height=615.
+2013-04-09	10:27:40		1365528458	158	4	5875555044	(Loading) Successfully initialized the graphics device.
+2013-04-09	10:27:40		1365528458	172	4	5875555050	(Loading) RegisterViewCommand - creating web object, objectName=LauncherViewport.
+2013-04-09	10:27:40		1365528458	173	4	5875555050	(Loading) RegisterViewCommand - created web object, objectName=LauncherViewport, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	174	4	5875555050	(Loading) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=ReadyToShow.
+2013-04-09	10:27:40		1365528458	175	4	5875555051	(Loading) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=ReadyToShow, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	176	4	5875555051	(Loading) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=SetSize.
+2013-04-09	10:27:40		1365528458	177	4	5875555051	(Loading) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=SetSize, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	178	4	5875555051	(Loading) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=SetTitle.
+2013-04-09	10:27:40		1365528458	179	4	5875555051	(Loading) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=SetTitle, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	180	4	5875555051	(Loading) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=AppCloseBySystem.
+2013-04-09	10:27:40		1365528458	181	4	5875555051	(Loading) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=AppCloseBySystem, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	182	4	5875555051	(Loading) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=AppCloseByUser.
+2013-04-09	10:27:40		1365528458	183	4	5875555051	(Loading) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=AppCloseByUser, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	184	4	5875555051	(Loading) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=AppMinimizeByUser.
+2013-04-09	10:27:40		1365528458	185	4	5875555051	(Loading) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=AppMinimizeByUser, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	186	4	5875555051	(Loading) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=AppMaximizeByUser.
+2013-04-09	10:27:40		1365528458	187	4	5875555051	(Loading) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=AppMaximizeByUser, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	188	4	5875555051	(Loading) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=StartDrag.
+2013-04-09	10:27:40		1365528458	189	4	5875555051	(Loading) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=StartDrag, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	190	4	5875555051	(Loading) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=StopDrag.
+2013-04-09	10:27:40		1365528458	191	4	5875555052	(Loading) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=StopDrag, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	192	4	5875555052	(Loading) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=SetDragHeight.
+2013-04-09	10:27:40		1365528458	193	4	5875555052	(Loading) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=SetDragHeight, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	194	4	5875555052	(Loading) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=GetLastErrorCode.
+2013-04-09	10:27:40		1365528458	195	4	5875555052	(Loading) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=GetLastErrorCode, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	196	4	5875555052	(Loading) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=CrashTest.
+2013-04-09	10:27:40		1365528458	197	4	5875555052	(Loading) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=CrashTest, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	198	4	5875555052	(Loading) SetExternalObjectProperty - objectName=LauncherViewport, propertyName=LastErrorMessage, value=.
+2013-04-09	10:27:40		1365528458	199	4	5875555052	(Loading) SetExternalObjectProperty - completed, objectName=LauncherViewport, propertyName=LastErrorMessage, value=, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	200	4	5875555052	(Loading) SetExternalObjectProperty - objectName=LauncherViewport, propertyName=LastErrorCode, value=.
+2013-04-09	10:27:40		1365528458	201	4	5875555052	(Loading) SetExternalObjectProperty - completed, objectName=LauncherViewport, propertyName=LastErrorCode, value=, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	202	4	5875555052	(Loading) EnableRendering - enable=1.
+2013-04-09	10:27:40		1365528458	203	4	5875555052	(Loading) SetFocus - focus=1.
+2013-04-09	10:27:40		1365528458	205	4	5875555053	(Loading) LoadUrl - url=local:loading.html
+2013-04-09	10:27:40		1365528458	208	4	5875555060	(Main) Create - viewName=Main, width=915, height=615.
+2013-04-09	10:27:40		1365528458	209	4	5875555060	(Main) Successfully initialized the graphics device.
+2013-04-09	10:27:40		1365528458	211	4	5875555064	(Main) RegisterViewCommand - creating web object, objectName=LauncherViewport.
+2013-04-09	10:27:40		1365528458	212	4	5875555064	(Main) RegisterViewCommand - created web object, objectName=LauncherViewport, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	213	4	5875555064	(Main) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=ReadyToShow.
+2013-04-09	10:27:40		1365528458	214	4	5875555065	(Main) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=ReadyToShow, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	215	4	5875555065	(Main) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=SetSize.
+2013-04-09	10:27:40		1365528458	216	4	5875555065	(Main) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=SetSize, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	217	4	5875555065	(Main) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=SetTitle.
+2013-04-09	10:27:40		1365528458	218	4	5875555065	(Main) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=SetTitle, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	219	4	5875555065	(Main) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=AppCloseBySystem.
+2013-04-09	10:27:40		1365528458	220	4	5875555065	(Main) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=AppCloseBySystem, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	221	4	5875555065	(Main) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=AppCloseByUser.
+2013-04-09	10:27:40		1365528458	222	4	5875555065	(Main) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=AppCloseByUser, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	223	4	5875555065	(Main) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=AppMinimizeByUser.
+2013-04-09	10:27:40		1365528458	224	4	5875555066	(Main) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=AppMinimizeByUser, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	225	4	5875555066	(Main) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=AppMaximizeByUser.
+2013-04-09	10:27:40		1365528458	226	4	5875555066	(Main) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=AppMaximizeByUser, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	227	4	5875555066	(Main) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=StartDrag.
+2013-04-09	10:27:40		1365528458	228	4	5875555066	(Main) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=StartDrag, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	229	4	5875555066	(Main) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=StopDrag.
+2013-04-09	10:27:40		1365528458	230	4	5875555066	(Main) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=StopDrag, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	231	4	5875555066	(Main) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=SetDragHeight.
+2013-04-09	10:27:40		1365528458	232	4	5875555067	(Main) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=SetDragHeight, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	233	4	5875555067	(Main) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=GetLastErrorCode.
+2013-04-09	10:27:40		1365528458	234	4	5875555067	(Main) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=GetLastErrorCode, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	235	4	5875555067	(Main) RegisterViewCommand - registering web object callback, objectName=LauncherViewport, methodName=CrashTest.
+2013-04-09	10:27:40		1365528458	236	4	5875555067	(Main) RegisterViewCommand - registered web object callback, objectName=LauncherViewport, methodName=CrashTest, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	237	4	5875555067	(Main) SetExternalObjectProperty - objectName=LauncherViewport, propertyName=LastErrorMessage, value=.
+2013-04-09	10:27:40		1365528458	238	4	5875555067	(Main) SetExternalObjectProperty - completed, objectName=LauncherViewport, propertyName=LastErrorMessage, value=, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	239	4	5875555067	(Main) SetExternalObjectProperty - objectName=LauncherViewport, propertyName=LastErrorCode, value=.
+2013-04-09	10:27:40		1365528458	240	4	5875555067	(Main) SetExternalObjectProperty - completed, objectName=LauncherViewport, propertyName=LastErrorCode, value=, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	246	4	5875555068	(Main) RegisterViewCommand - creating web object, objectName=TrackingManager.
+2013-04-09	10:27:40		1365528458	247	4	5875555068	(Main) RegisterViewCommand - created web object, objectName=TrackingManager, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	248	4	5875555068	(Main) RegisterViewCommand - registering web object callback, objectName=TrackingManager, methodName=SetWebSessionId.
+2013-04-09	10:27:40		1365528458	249	4	5875555068	(Main) RegisterViewCommand - registered web object callback, objectName=TrackingManager, methodName=SetWebSessionId, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	250	4	5875555068	(Main) RegisterViewCommand - registering web object callback, objectName=TrackingManager, methodName=LogWebEvent.
+2013-04-09	10:27:40		1365528458	251	4	5875555068	(Main) RegisterViewCommand - registered web object callback, objectName=TrackingManager, methodName=LogWebEvent, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	252	4	5875555068	(Main) RegisterViewCommand - registering web object callback, objectName=TrackingManager, methodName=ClearCookies.
+2013-04-09	10:27:40		1365528458	253	4	5875555068	(Main) RegisterViewCommand - registered web object callback, objectName=TrackingManager, methodName=ClearCookies, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	254	4	5875555068	(Main) RegisterViewCommand - registering web object callback, objectName=TrackingManager, methodName=ClearCache.
+2013-04-09	10:27:40		1365528458	255	4	5875555068	(Main) RegisterViewCommand - registered web object callback, objectName=TrackingManager, methodName=ClearCache, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	256	4	5875555068	(Main) SetExternalObjectProperty - objectName=TrackingManager, propertyName=LauncherShellVersion, value=5.2.5.24.
+2013-04-09	10:27:40		1365528458	257	4	5875555069	(Main) SetExternalObjectProperty - completed, objectName=TrackingManager, propertyName=LauncherShellVersion, value=5, totalTimeMs=1.
+2013-04-09	10:27:40		1365528458	258	4	5875555069	(Main) SetExternalObjectProperty - objectName=TrackingManager, propertyName=LauncherBuildTime, value=Mar  4 2013 18:31:57.
+2013-04-09	10:27:40		1365528458	259	4	5875555069	(Main) SetExternalObjectProperty - completed, objectName=TrackingManager, propertyName=LauncherBuildTime, value=M, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	260	4	5875555069	(Main) SetExternalObjectProperty - objectName=TrackingManager, propertyName=ClientGuid, value=55f4f2a6-0000457a-0000411d-d672a783-02ae4c9f.
+2013-04-09	10:27:40		1365528458	261	4	5875555069	(Main) SetExternalObjectProperty - completed, objectName=TrackingManager, propertyName=ClientGuid, value=5, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	262	4	5875555069	(Main) SetExternalObjectProperty - objectName=TrackingManager, propertyName=UserFingerprint, value=55f4f2a6-0000457a-0000411d-d672a783-02ae4c9f.
+2013-04-09	10:27:40		1365528458	263	4	5875555069	(Main) SetExternalObjectProperty - completed, objectName=TrackingManager, propertyName=UserFingerprint, value=5, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	264	4	5875555069	(Main) SetExternalObjectProperty - objectName=TrackingManager, propertyName=SystemFingerprint, value=PFN5c3RlbUZpbmdlcnByaW50IFZpZGVvQ2FyZElkPSJDQU9LUjI0anNRUi9GNFhrVFNQc1FYQkloRHBMMzRhT0dCRndUVjlwSVdFPSIgTmV0d29ya0NhcmRJZD0idURYdWhJM3h3MlR2d1RvNDMvcjVhNDBHS1E5TCtZL1BQZTBISkdGaHJYQT0iIEhhcmRyaXZlSWQ9ImxDMFF0Q1gzdlRxamw4ZnBxcnFxWnRkVk5wc3J2Y29SUk55WHU0UURBakk9IiBDb21wdXRlck5hbWU9IjJEdVFRTDFsTWdUU0l5MnhSS2NLcEY0WVQxN0F2VGVVbXNOU3hoRW11QlE9Ij48TmV0d29ya0FkYXB0ZXJzIElzTGlzdD0iMSI-PE5ldHdvcmtBZGFwdGVyIElkPSJ1RFh1aEkzeHcyVHZ3VG80My9yNWE0MEdLUTlMK1kvUFBlMEhKR0ZoclhBPSIvPjxOZXR3b3JrQWRhcHRlciBJZD0ibENqQ0ttUzBQUE5CbkdhbzBLL1Y2ZStrOWxIbkdNTlZRWmxMblZBZENWbz0iLz48TmV0d29ya0FkYXB0ZXIgSWQ9IjRuNUl5S29qMmRrcXNPaTA4L3k4WXEzK2VRUlpkMlJseVo3TW11Sk01NFE9Ii8-PE5ldHdvcmtBZGFwdGVyIElkPSJ2QjBtSFprc1VUMjhQdzdjZmE5a0VwNjMzQnNkK3JyQWhock1mU2NmTzdRPSIvPjxOZXR3b3JrQWRhcHRlciBJZD0iMUtOUk9SaUhvc1JES3FHcGgzVEtVYk55Y3VtQUZhU0lxWnkySEEwUDIzbz0iLz48L05ldHdvcmtBZGFwdGVycz48SGFyZERyaXZlcyBJc0xpc3Q9IjEiPjxIYXJkRHJpdmUgVW5pcXVlSWQ9Ijh1N09iZWVMNklOOEhkNTA1TXA4OTdLaUJWUnFXLzdwN0VROE9nbFpnNjg9IiBNb2RlbElkPSIrSm5rbU1XL2VtUlpMMmZoRCsyUzhzOWcwVEZxQ2FJVVlOdmZpUDEwTW1VPSIgUmV2aXNpb25JZD0iZGtTL0dFY2NTa2RSVzhsNXZJcnNneWRQN1BwN09xcGNHa1JLWVplakU3Yz0iIFZlbmRvcklkPSJveEN2UzYyellMN1c3TUt4ajVTcmhGaHQydVk4bVVUd1NYRHBaSW13NW5FPSIgU2l6ZUlkPSJlUEw3aXU1VVZPM2JBTitLWldtNW5sK1k1SnZ0dWYzQ3FjNUljZjlJOWtFPSIvPjxIYXJkRHJpdmUgVW5pcXVlSWQ9IllkZ3VET0xoa3BEWWd4ZjZYbWJLWDQ1LzNOcjUwZFBYRWpwT1ROZlZYYXc9IiBNb2RlbElkPSJMWC85Nyt4NjN3QmNzbmdUSTF5STEyRWUwSm9YWEdKTVlLQytqNlBLS3FRPSIgUmV2aXNpb25JZD0icXdkcGtaeHZUWHZ6NXY1VDEvcVdubXJ0M01jdStrVFFLN2JiTGs2Q3BQcz0iIFZlbmRvcklkPSJveEN2UzYyellMN1c3TUt4ajVTcmhGaHQydVk4bVVUd1NYRHBaSW13NW5FPSIgU2l6ZUlkPSJ1M1V4MFhoMnY3MDQzTkFqbnlPYldVV2M5czczcFNBWGxIVlpDMEVUTFZZPSIvPjwvSGFyZERyaXZlcz48L1N5c3RlbUZpbmdlcnByaW50Pg==.
+2013-04-09	10:27:40		1365528458	265	4	5875555070	(Main) SetExternalObjectProperty - completed, objectName=TrackingManager, propertyName=SystemFingerprint, value=P, totalTimeMs=1.
+2013-04-09	10:27:40		1365528458	266	4	5875555070	(Main) SetExternalObjectProperty - objectName=TrackingManager, propertyName=ClientSessionId, value=1365528471.
+2013-04-09	10:27:40		1365528458	267	4	5875555070	(Main) SetExternalObjectProperty - completed, objectName=TrackingManager, propertyName=ClientSessionId, value=1, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	269	4	5875555091	(Main) RegisterViewCommand - creating web object, objectName=UpdateManager.
+2013-04-09	10:27:40		1365528458	270	4	5875555091	(Main) RegisterViewCommand - created web object, objectName=UpdateManager, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	281	4	5875555092	(Main) RegisterViewCommand - creating web object, objectName=external.
+2013-04-09	10:27:40		1365528458	282	4	5875555092	(Main) RegisterViewCommand - created web object, objectName=external, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	283	4	5875555092	(Main) RegisterViewCommand - registering web object callback, objectName=external, methodName=createPlugin.
+2013-04-09	10:27:40		1365528458	284	4	5875555093	(Main) RegisterViewCommand - registered web object callback, objectName=external, methodName=createPlugin, totalTimeMs=1.
+2013-04-09	10:27:40		1365528458	285	4	5875555093	(Main) RegisterViewCommand - registering web object callback, objectName=external, methodName=destroyPlugin.
+2013-04-09	10:27:40		1365528458	286	4	5875555093	(Main) RegisterViewCommand - registered web object callback, objectName=external, methodName=destroyPlugin, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	287	4	5875555093	(Main) RegisterViewCommand - registering web object callback, objectName=external, methodName=addPluginParam.
+2013-04-09	10:27:40		1365528458	288	4	5875555093	(Main) RegisterViewCommand - registered web object callback, objectName=external, methodName=addPluginParam, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	289	4	5875555093	(Main) RegisterViewCommand - registering web object callback, objectName=external, methodName=performPluginCommand.
+2013-04-09	10:27:40		1365528458	290	4	5875555093	(Main) RegisterViewCommand - registered web object callback, objectName=external, methodName=performPluginCommand, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	291	4	5875555093	(Main) RegisterViewCommand - registering web object callback, objectName=external, methodName=sendJavascriptToPlugin.
+2013-04-09	10:27:40		1365528458	292	4	5875555093	(Main) RegisterViewCommand - registered web object callback, objectName=external, methodName=sendJavascriptToPlugin, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	293	4	5875555093	(Main) RegisterViewCommand - registering web object callback, objectName=external, methodName=initComplete.
+2013-04-09	10:27:40		1365528458	294	4	5875555093	(Main) RegisterViewCommand - registered web object callback, objectName=external, methodName=initComplete, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	295	4	5875555093	(Main) RegisterViewCommand - registering web object callback, objectName=external, methodName=appMinimize.
+2013-04-09	10:27:40		1365528458	296	4	5875555093	(Main) RegisterViewCommand - registered web object callback, objectName=external, methodName=appMinimize, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	297	4	5875555093	(Main) RegisterViewCommand - registering web object callback, objectName=external, methodName=appClose.
+2013-04-09	10:27:40		1365528458	298	4	5875555094	(Main) RegisterViewCommand - registered web object callback, objectName=external, methodName=appClose, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	299	4	5875555094	(Main) RegisterViewCommand - registering web object callback, objectName=external, methodName=setDragHeight.
+2013-04-09	10:27:40		1365528458	300	4	5875555094	(Main) RegisterViewCommand - registered web object callback, objectName=external, methodName=setDragHeight, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	301	4	5875555094	(Main) SetExternalObjectProperty - objectName=external, propertyName=version, value=5.2.5.24.
+2013-04-09	10:27:40		1365528458	302	4	5875555094	(Main) SetExternalObjectProperty - completed, objectName=external, propertyName=version, value=5, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	303	4	5875555094	(Main) SetExternalObjectProperty - objectName=external, propertyName=pluginVersion, value=183.
+2013-04-09	10:27:40		1365528458	304	4	5875555094	(Main) SetExternalObjectProperty - completed, objectName=external, propertyName=pluginVersion, value=1, totalTimeMs=0.
+2013-04-09	10:27:40		1365528458	305	4	5875555094	(Main) EnableRendering - enable=1.
+2013-04-09	10:27:40		1365528458	306	4	5875555094	(Main) SetFocus - focus=1.
+2013-04-09	10:27:40		1365528458	309	4	5875555094	(Main) LoadUrl - url=https://lp.soe.com/wiz.2/live/?t=58755
+2013-04-09	10:27:40		1365528458	324	4	5875555559	(Loading) onBeginNavigation, url=local://loading.html/, frameName=.
+2013-04-09	10:27:40		1365528458	328	4	5875555580	(Main) onBeginNavigation, url=https://lp.soe.com/wiz.2/live/?t=58755, frameName=.
+2013-04-09	10:27:40		1365528458	329	4	5875555703	(Loading) onBeginLoading, url=local://loading.html/, frameName=, status=200, mimeType=text/html
+2013-04-09	10:27:40		1365528458	330	4	5875555703	(Loading) onDOMReady, url=local://loading.html/
+2013-04-09	10:27:40		1365528458	331	4	5875555703	(Loading) onReceiveTitle, url=local://loading.html/, title=Wizardry Online, frameName=.
+2013-04-09	10:27:40		1365528458	383	4	5875555925	(Loading) onFinishLoading, url=local://loading.html/
+2013-04-09	10:27:40		1365528458	387	4	5875555926	(Loading) EnableRendering - enable=1.
+2013-04-09	10:27:41		1365528458	392	4	5875556102	(Main) onBeginLoading, url=https://lp.soe.com/wiz.2/live/?t=58755, frameName=, status=200, mimeType=text/html
+2013-04-09	10:27:41		1365528458	393	4	5875556102	(Main) onDOMReady, url=https://lp.soe.com/wiz.2/live/?t=58755
+2013-04-09	10:27:41		1365528458	394	4	5875556102	(Main) onReceiveTitle, url=https://lp.soe.com/wiz.2/live/?t=58755, title=Wizardry Online, frameName=.
+2013-04-09	10:27:42		1365528458	528	4	5875557675	(Main) onCallback, objectName=LauncherViewport, callbackName=SetDragHeight, argList=(arg0=150, )
+2013-04-09	10:27:42		1365528458	532	4	5875557676	(Main) onCallback, objectName=LauncherViewport, callbackName=ReadyToShow, argList=()
+2013-04-09	10:27:42		1365528458	546	4	5875557785	(Main) onCallback, objectName=TrackingManager, callbackName=SetWebSessionId, argList=(arg0=unknownTrackingId, )
+2013-04-09	10:27:43		1365528458	584	4	5875558516	(Main) onFinishLoading, url=https://lp.soe.com/wiz.2/live/?t=58755
+2013-04-09	10:27:43		1365528458	595	4	5875558532	(Loading) Destroy - viewName=Loading, width=915, height=615.
+2013-04-09	10:27:43		1365528458	606	4	5875558548	(Main) SetFocus - focus=1.
+2013-04-09	10:27:43		1365528458	607	4	5875558548	(Main) EnableRendering - enable=1.
+2013-04-09	10:27:43		1365528458	608	4	5875558548	(Main) EnableRendering - enable=1.
+2013-04-09	10:27:44		1365528458	614	4	5875559026	(Main) onGetPageContents, url=https://lp.soe.com/wiz.2/live/?t=58755
+2013-04-09	10:27:47		1365528458	615	4	5875562504	(Main) onCallback, objectName=LauncherViewport, callbackName=AppCloseByUser, argList=()
+2013-04-09	10:27:47		1365528458	618	4	5875562515	(Main) SetFocus - focus=0.
+2013-04-09	10:27:47		1365528458	622	4	5875562520	(Main) SetFocus - focus=0.
+2013-04-09	10:27:47		1365528458	623	4	5875562520	(Main) EnableRendering - enable=0.
+2013-04-09	10:27:47		1365528458	649	4	5875562533	(Main) Destroy - viewName=Main, width=915, height=615.

@@ -1,0 +1,38 @@
+2013-04-09	10:27:40		1365528458	159	4	5875555048	CreateProcessor - Creating command processor, objectName=LauncherViewport.
+2013-04-09	10:27:40		1365528458	160	4	5875555049	Registering command - objectName=LauncherViewport, method=ReadyToShow.
+2013-04-09	10:27:40		1365528458	161	4	5875555049	Registering command - objectName=LauncherViewport, method=SetSize.
+2013-04-09	10:27:40		1365528458	162	4	5875555050	Registering command - objectName=LauncherViewport, method=SetTitle.
+2013-04-09	10:27:40		1365528458	163	4	5875555050	Registering command - objectName=LauncherViewport, method=AppCloseBySystem.
+2013-04-09	10:27:40		1365528458	164	4	5875555050	Registering command - objectName=LauncherViewport, method=AppCloseByUser.
+2013-04-09	10:27:40		1365528458	165	4	5875555050	Registering command - objectName=LauncherViewport, method=AppMinimizeByUser.
+2013-04-09	10:27:40		1365528458	166	4	5875555050	Registering command - objectName=LauncherViewport, method=AppMaximizeByUser.
+2013-04-09	10:27:40		1365528458	167	4	5875555050	Registering command - objectName=LauncherViewport, method=StartDrag.
+2013-04-09	10:27:40		1365528458	168	4	5875555050	Registering command - objectName=LauncherViewport, method=StopDrag.
+2013-04-09	10:27:40		1365528458	169	4	5875555050	Registering command - objectName=LauncherViewport, method=SetDragHeight.
+2013-04-09	10:27:40		1365528458	170	4	5875555050	Registering command - objectName=LauncherViewport, method=GetLastErrorCode.
+2013-04-09	10:27:40		1365528458	171	4	5875555050	Registering command - objectName=LauncherViewport, method=CrashTest.
+2013-04-09	10:27:40		1365528458	210	4	5875555064	CreateProcessor - Processor has already been created, will register, objectName=LauncherViewport.
+2013-04-09	10:27:40		1365528458	241	4	5875555067	CreateProcessor - Creating command processor, objectName=TrackingManager.
+2013-04-09	10:27:40		1365528458	242	4	5875555067	Registering command - objectName=TrackingManager, method=SetWebSessionId.
+2013-04-09	10:27:40		1365528458	243	4	5875555067	Registering command - objectName=TrackingManager, method=LogWebEvent.
+2013-04-09	10:27:40		1365528458	244	4	5875555067	Registering command - objectName=TrackingManager, method=ClearCookies.
+2013-04-09	10:27:40		1365528458	245	4	5875555067	Registering command - objectName=TrackingManager, method=ClearCache.
+2013-04-09	10:27:40		1365528458	268	4	5875555091	CreateProcessor - Creating command processor, objectName=UpdateManager.
+2013-04-09	10:27:40		1365528458	271	4	5875555092	CreateProcessor - Creating command processor, objectName=external.
+2013-04-09	10:27:40		1365528458	272	4	5875555092	Registering command - objectName=external, method=createPlugin.
+2013-04-09	10:27:40		1365528458	273	4	5875555092	Registering command - objectName=external, method=destroyPlugin.
+2013-04-09	10:27:40		1365528458	274	4	5875555092	Registering command - objectName=external, method=addPluginParam.
+2013-04-09	10:27:40		1365528458	275	4	5875555092	Registering command - objectName=external, method=performPluginCommand.
+2013-04-09	10:27:40		1365528458	276	4	5875555092	Registering command - objectName=external, method=sendJavascriptToPlugin.
+2013-04-09	10:27:40		1365528458	277	4	5875555092	Registering command - objectName=external, method=initComplete.
+2013-04-09	10:27:40		1365528458	278	4	5875555092	Registering command - objectName=external, method=appMinimize.
+2013-04-09	10:27:40		1365528458	279	4	5875555092	Registering command - objectName=external, method=appClose.
+2013-04-09	10:27:40		1365528458	280	4	5875555092	Registering command - objectName=external, method=setDragHeight.
+2013-04-09	10:27:42		1365528458	529	4	5875557675	ProcessCommand - Invoking method on object, objectName=LauncherViewport, methodName=SetDragHeight, argList=150
+2013-04-09	10:27:42		1365528458	530	4	5875557675	ExternalCommandProcessorViewport - method=SetDragHeight, height=150.
+2013-04-09	10:27:42		1365528458	533	4	5875557676	ProcessCommand - Invoking method on object, objectName=LauncherViewport, methodName=ReadyToShow, argList=
+2013-04-09	10:27:42		1365528458	534	4	5875557676	ExternalCommandProcessorViewport - method=ReadyToShow.
+2013-04-09	10:27:42		1365528458	547	4	5875557785	ProcessCommand - Invoking method on object, objectName=TrackingManager, methodName=SetWebSessionId, argList=unknownTrackingId
+2013-04-09	10:27:42		1365528458	548	4	5875557785	ExternalCommandProcessorTrackingManager - method=SetWebSessionId, webSessionId=unknownTrackingId.
+2013-04-09	10:27:47		1365528458	616	4	5875562505	ProcessCommand - Invoking method on object, objectName=LauncherViewport, methodName=AppCloseByUser, argList=
+2013-04-09	10:27:47		1365528458	617	4	5875562505	ExternalCommandProcessorViewport - method=AppCloseByUser.

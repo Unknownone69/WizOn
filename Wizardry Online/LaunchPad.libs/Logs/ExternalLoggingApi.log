@@ -1,0 +1,3 @@
+2013-04-09	10:27:38		1365528458	3	4	5875553635	BaseApi constructed (ExternalLoggingUdp_1) defaultPort=0
+2013-04-09	10:27:38		1365528458	44	4	5875553701	BaseApi connect request (ExternalLoggingUdp_1) address=69.174.203.134:20060 timeout=10000 autoReconnect=0
+2013-04-09	10:27:38		1365528458	45	4	5875553702	BaseUdpManager service started (ExternalLoggingUdp_1) threading=1 compression=0

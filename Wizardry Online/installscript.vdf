@@ -1,0 +1,24 @@
+"InstallScript"
+{
+	"Run Process"
+	{
+		"DXSetup"
+		{
+			"HasRunKey"		"HKEY_CURRENT_USER\\Software\\Valve\\Steam\\Apps\\221360"
+			"process 1"		"%INSTALLDIR%\\redist\\DirectX\\DXSETUP.exe"
+			"command 1"		"/silent"
+			"NoCleanUp"		"1"
+		}
+		"FixTimestamp"
+		{
+			"HasRunKey"		"HKEY_CURRENT_USER\\Software\\Valve\\Steam\\Apps\\221360"
+			"process 1"		"%INSTALLDIR%\\FixTimestamps.exe"
+			"command 1"		"fix.soe"
+			"NoCleanUp"		"1"
+		}
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"4d4ce75bda9476e5db29c3b8d8046c4f6e14923c7d9e216bb96249f5787c550df83fdd4011baf96883c87286e6c108879734bf3a9fcd493cd1129b16313c8d52ac14417cdb5d03716db9a9ad214e2cb8a477a6be2fc6573703e069321131ff074b91d0afc2fd0ca649dab45eddb643cf4fc5e5d12c1338d2124cc597a399bbed"
+}

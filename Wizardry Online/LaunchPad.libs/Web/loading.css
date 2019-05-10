@@ -1,0 +1,413 @@
+/* GLOBAL CSS RESET start */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+	margin: 0;
+	padding: 0;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+fieldset, img {
+	border: 0;
+}
+address, caption, cite, code, dfn, th, var {
+	font-style: normal;
+	font-weight: normal;
+}
+ul {
+	list-style: none;
+}
+caption, th {
+	text-align: left;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+	font-weight: normal;
+}
+q:before, q:after {
+	content: '';
+}
+abbr, acronym {
+	border: 0;
+}
+/*a {
+	text-decoration: none;
+}*/
+/* GLOBAL CSS RESET end */
+
+
+/* GLOBAL HTML OVERWRITES start */
+body {
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: black;
+	background-color: black;
+}
+ol {
+	margin: 0 0 0 15px;
+}
+ol > li {
+	margin: 0 0 0 10px;
+	list-style-type: decimal;
+}
+a, a:active, a:hover, a:focus, a:visited {
+	cursor: pointer;
+	text-decoration: none;
+}
+input, textarea, select {
+	outline: none;
+	padding: 0.3em 0.5em;
+	font-size: 15px;
+	border: none;
+	-webkit-border-radius: 0.30em;
+	background-attachment: scroll;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+input[type="text"], input[type="password"] {
+	width: 253px;
+}
+input[type="checkbox"], input[type="radio"] {
+	display: inline-block;
+	font-size: 1em;
+	margin: 0.1em 0.25em -0.1em 0;
+	padding: 0;
+	width: 1em;
+	height: 1em;
+	vertical-align: text-top;
+}
+input[type="radio"] {
+	-webkit-border-radius: 2em;
+}
+select {
+	-webkit-appearance: button;
+	padding-right: 25px;
+	font-size: 11px;
+}
+textarea {
+	resize: none;
+}
+/* GLOBAL HTML OVERWRITES end */
+
+
+/* GLOBAL USE STYLES start */
+.clr {
+	clear: both;
+	height: 0;
+	line-height: 0;
+	font-size: 0;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+.labels {
+	display: none;
+}
+.ui-icon {
+	text-indent: -99999px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	width: 16px;
+	height: 16px;
+	background: url("img/ui-icons.png?h=658e8dc0") no-repeat scroll 0 0 transparent;
+	display: inline-block;
+}
+.ui-icon.ui-icon-close {
+	background-position: -80px -128px;
+}
+.ui-icon.ui-icon-close:hover { /* .ui-icon-circle-close */
+	background-position: -32px -192px;
+}
+/* GLOBAL USE STYLES end */
+
+
+/* COMPONENTS start */
+
+/* COMPONENTS: OVERLAYS start */
+.overlay {
+	font-size: 15px;
+	display: none;
+	width: 300px;
+	padding: 10px 0;
+	background-color: #666666;
+}
+.overlay h1 {
+	font-size: 24px;
+	margin: 2px auto 10px auto;
+	display: table;
+}
+.overlay h2 {
+	font-size: 13px;
+	font-weight: bold;
+	margin: 8px 9px 4px 9px;
+}
+.overlay .content {
+	font-size: 12px;
+	padding: 8px 9px 8px 9px;
+	min-height: 90px;
+}
+.overlay .buttonset {
+	text-align: center;
+	margin: 8px 12px 0 12px;
+}
+.overlay .buttonset .continueButton {
+	display: none;
+}
+.overlay .buttonset input {
+	margin: 0 5px;
+	font-size: 012px;
+}
+.overlay label {
+	font-size: 15px;
+	margin: 0 0 1px 0;
+	display: inline-block;
+}
+.overlay .close {
+	right: 0;
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	display: block;
+	margin: -5px 7px 0 0;
+}
+.overlay .close:hover {
+	background-position: 0 -17px;
+}
+/* GLOBAL WRAPPER STYLES start */
+#lp {
+	margin: 0 auto;
+	width: 883px;
+}
+#lpFrameControls {
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 9999;
+}
+#lp #lpHeader {
+	height: 120px;
+	position: relative;
+	z-index: 1;
+}
+#lp #lpHeader li, #lp #lpFooter li {
+	display: inline-block;
+}
+#lp #lpHeader #lpHeaderLeft,
+#lp #lpHeader #lpHeaderRight {
+	position: absolute;
+	width: 300px;
+}
+#lp #lpHeader #lpHeaderLeft #lpGameVersionArea,
+#lp #lpHeader #lpHeaderRight #lpLoginUtils {
+	vertical-align: bottom;
+	display: table-cell;
+}
+#lp #lpHeader #lpHeaderLeft #lpGameVersionArea #lpGameVersionText {
+	display: none;
+}
+#lp #lpHeader #lpHeaderLeft #lpGameVersionArea span {
+	padding: 0 5px 0 0;
+	display: inline-block;
+}
+#lp #lpHeader #lpHeaderLeft #lpProviderLogo {
+	width: 115px;
+	height: 18px;
+}
+#lp #lpHeader #lpHeaderCenter {
+	width: 310px;
+}
+#lp #lpHeader #lpHeaderRight {
+	right: 0;
+	display: table;
+}
+#lp #lpHeader #lpHeaderRight #lpLoginUtils {
+	visibility: hidden; /*turn on with code*/
+}
+#lp #lpHeader #lpHeaderRight #lpLoginUtils > ul > li {
+	margin: 0 0 0 5px;
+	float: right;
+}
+#lp #lpHeader #lpHeaderRight #lpLoginUtils > ul > li a {
+	font-size: 12px;
+}
+#lp #lpHeader #lpHeaderRight #lpLoginUtils > ul > li a.switchAccount {
+	width: 85%;
+	position: absolute;
+}
+#lp #lpHeader #lpHeaderRight #lpLoginUtils > ul > li a.logoutAccount {
+	float: right;
+	padding: 2px 6px 2px 0;
+}
+#lp #lpHeader #lpHeaderRight #lpLoginUtils #lpAccountButton {
+	position: relative;
+}
+#lp #lpHeader #lpHeaderRight #lpLoginUtils #lpAccountButton #lpLoginHistoryMenu {
+	display: none;
+	position: absolute;
+	min-width: 170px;
+	max-height: 550px;
+	overflow: auto;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+#lp #lpContent {
+	height: 415px;
+	position: relative;
+	z-index: 0;
+}
+#lp .overlays {
+	width: 100%;
+	position: absolute;
+	z-index: 3;
+}
+#lp #lpContent #exposeMask {
+	width: 883px !important;
+	height: 100% !important;
+	position: absolute;
+	background-color: black;
+	opacity: 1;
+	z-index: 2 !important;
+	display: block;
+}
+#lp #lpFooter {
+	height: 35px;
+}
+
+#lpLoginPanelContainer {
+	width: 400px;
+	text-align: center;
+}
+.lp-loading-overlay {
+	display: none;
+}
+.lp-loading-overlay div {
+	margin-top: 160px;
+}
+.lp-loading-icon {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background: url("images/wrapper/waiting-loading.gif?h=d04d8ccd") no-repeat;
+}
+.lp-loading-msg {
+	display: block;
+}
+.lp-loading-overlay div {
+	margin-top: 160px;
+}
+.lp-loading-icon {
+	width: 16px;
+	height: 16px;
+	background: url("images/wrapper/waiting-loading.gif?h=d04d8ccd") no-repeat;
+}
+/* COM
+/* GLOBAL HTML OVERWRITES start */
+body {
+	background-color: #000000;
+	color: #735446;
+}
+body a {
+	color: #2d4629;
+}
+/* GLOBAL USE STYLES start */
+/* GLOBAL WRAPPER STYLE START */
+#lp {
+	background: url("images/wrapper/border-bg.jpg?h=4d8f7aa7") no-repeat scroll 0 0 transparent;
+	width: 883px;
+	padding: 5px 16px 0px 16px;
+}
+#lpFrameControls {
+	right: 4px;
+	top: 4px;
+}
+#lpFrameControls .lpFrameControl {
+	display: block;
+	width: 20px;
+	height: 18px;
+	float: right;
+	background: url("images/wrapper/window-controls.png?h=658e8dc0") no-repeat;
+}
+#lpFrameControls #lpFrameMinimize.lpFrameControl {
+	background-position: left top;
+	margin-right: 7px;
+}
+#lpFrameControls #lpFrameMinimize.lpFrameControl:hover {
+	background-position: left -21px;
+}
+#lpFrameControls #lpFrameMinimize.lpFrameControl:active {
+	background-position: left bottom;
+}
+#lpFrameControls #lpFrameClose.lpFrameControl {
+	background-position: right top;
+}
+#lpFrameControls #lpFrameClose.lpFrameControl:hover {
+	background-position: right -21px;
+}
+#lpFrameControls #lpFrameClose.lpFrameControl:active {
+	background-position: right bottom;
+}
+#lp #lpHeader {
+	background: url("images/wrapper/header.jpg?h=b1178762") no-repeat left 26px;
+	height: 150px;
+	width:	883px;
+	color: #ac7611;
+}
+#lp #lpHeader a {
+	color: #ac7611;
+}
+#lp #lpHeader #lpHeaderLeft #lpProviderLogo {
+	background: url("images/wrapper/soe-logo.png?h=658e8dc0") no-repeat scroll 0 0 transparent;
+	width: 115px;
+}
+#lp #lpHeader #lpHeaderLeft #lpGameVersionArea {
+	margin: 3px 0 0 130px;
+	float: left;
+	color: #705211;
+}
+#lp #lpHeader #lpHaderCenter {
+	width: 200px;
+}
+#lp #lpHeader #lpHeaderRight {
+	margin: 3px 65px 0 0;
+	width: 400px;
+}
+#lp #lpHeader #lpHeaderRight #lpLoginUtils #lpSwitchAccountButton {
+	background: url("images/wrapper/topnav-arrow.png?h=658e8dc0") no-repeat scroll right 0 transparent;
+	padding: 0px 13px 0px 0px;
+	width: 190px;
+	display: inline-block;
+	text-align: right;
+}
+#lp #lpHeader #lpHeaderRight #lpLoginHistoryMenu {
+	text-align: left;
+	margin: 0 0 0 50px;
+}
+#lp #lpContent {
+	background: url("images/wrapper/content-bg.jpg?h=c9ccb363") no-repeat scroll 0 0 transparent;
+}
+#lp #lpContent #exposeMask {
+	background: rgba(0,0,0,0.9);
+}
+#lp #lpLoginPanelContainer {
+	position: absolute !important;
+	top: -10px !important;
+	left: 50% !important;
+	width: 500px;
+	height: 411px;
+	margin: 0 0 0 -250px !important;
+	background: url("images/modal-login-bg.png?h=658e8dc0") no-repeat;
+}
+#lp #lpSpinnerOverlay {
+	background: url("images/modal-reg-bg.png?h=658e8dc0") no-repeat scroll 0 0 transparent;
+	width: 568px;
+	height: 399px;
+}
+/* FOOTER STYLES */
+#lp #lpFooter {
+	background: url("images/wrapper/footer-bg.jpg?h=09f6cbe2") no-repeat scroll 0 0 transparent;
+	width: 883px;
+	color: #ac7611;
+}
