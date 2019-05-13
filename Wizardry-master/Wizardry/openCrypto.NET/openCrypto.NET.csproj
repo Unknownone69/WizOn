@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{59AD989B-7DD7-400B-B2D5-EFBD0004A749}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>openCrypto</RootNamespace>
+    <AssemblyName>openCrypto.NET</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Tests|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Tests\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;TEST;MSCSC</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CipherImplementationType.cs" />
+    <Compile Include="CipherModePlus.cs" />
+    <Compile Include="CMAC.cs" />
+    <Compile Include="ConfluentWaitHandle.cs" />
+    <Compile Include="EllipticCurve\ECDomainNames.cs" />
+    <Compile Include="EllipticCurve\ECDomains.cs" />
+    <Compile Include="EllipticCurve\ECDomainParameters.cs" />
+    <Compile Include="EllipticCurve\ECGroup.cs" />
+    <Compile Include="EllipticCurve\ECKeyPair.cs" />
+    <Compile Include="EllipticCurve\ECPoint.cs" />
+    <Compile Include="EllipticCurve\Encryption\ECIES.cs" />
+    <Compile Include="EllipticCurve\Encryption\ECIESParameters.cs" />
+    <Compile Include="EllipticCurve\KeyAgreement\ECDiffieHellman.cs" />
+    <Compile Include="EllipticCurve\KeyAgreement\ECDiffieHellmanParameters.cs" />
+    <Compile Include="EllipticCurve\KeyAgreement\ECKeyAgreement.cs" />
+    <Compile Include="EllipticCurve\KeyAgreement\ECMQV.cs" />
+    <Compile Include="EllipticCurve\KeyAgreement\ECMQVParameters.cs" />
+    <Compile Include="EllipticCurve\Signature\ECDSA.cs" />
+    <Compile Include="EllipticCurve\Signature\ECDSAParameters.cs" />
+    <Compile Include="FiniteField\Barrett.cs" />
+    <Compile Include="FiniteField\Classical.cs" />
+    <Compile Include="FiniteField\DiffieHellman.cs" />
+    <Compile Include="FiniteField\GeneralizedMersennePrimeField.cs" />
+    <Compile Include="FiniteField\IFiniteField.cs" />
+    <Compile Include="FiniteField\Montgomery.cs" />
+    <Compile Include="FiniteField\SECP192r1.cs" />
+    <Compile Include="FiniteField\SECP256r1.cs" />
+    <Compile Include="FiniteField\Number.cs" />
+    <Compile Include="FiniteField\SECP224r1.cs" />
+    <Compile Include="FiniteField\SECP384r1.cs" />
+    <Compile Include="FiniteField\SECP521r1.cs" />
+    <Compile Include="Luffa\Luffa224Managed.cs" />
+    <Compile Include="Luffa\Luffa256Managed.cs" />
+    <Compile Include="Luffa\Luffa384Managed.cs" />
+    <Compile Include="Luffa\Luffa512Managed.cs" />
+    <Compile Include="Luffa\LuffaManaged.cs" />
+    <Compile Include="SHA\SHA512Algorithm.cs" />
+    <Compile Include="SHA\SHA512Managed.cs" />
+    <Compile Include="SHA\SHA512_224Managed.cs" />
+    <Compile Include="SHA\SHA512_256Managed.cs" />
+    <Compile Include="ShortKeyedHashAlgorithm.cs" />
+    <Compile Include="KeyDerivationFunctions\ANSI_X963_KDF.cs" />
+    <Compile Include="KeyDerivationFunctions\KeyDerivationFunction.cs" />
+    <Compile Include="Rijndael\Rijndael.cs" />
+    <Compile Include="Rijndael\RijndaelTransform32.cs" />
+    <Compile Include="Rijndael\RijndaelTransform32Balanced.cs" />
+    <Compile Include="Rijndael\RijndaelTransform32HighSpeed.cs" />
+    <Compile Include="RNG.cs" />
+    <Compile Include="SymmetricAlgorithmPlus.cs" />
+    <Compile Include="SymmetricTransform.cs" />
+    <Compile Include="Camellia\Camellia.cs" />
+    <Compile Include="Camellia\CamelliaManaged.cs" />
+    <Compile Include="Camellia\CamelliaTransform.cs" />
+    <Compile Include="Camellia\CamelliaTransformBE.cs" />
+    <Compile Include="Camellia\CamelliaTransformLE.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Rijndael\RijndaelManaged.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.ja" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LICENSE.MIT.X11" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
